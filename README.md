@@ -38,7 +38,7 @@ Each folder (`week_1`, `week_2`, `week_3`, `week_4`) contains the code and docum
 **Internship Certificate**
 
 The `infosys_internship_certificate_of_completion.pdf` file provides a copy of your Infosys internship completion certificate for reference.
-!**Infosys Internship Certificate**!(infosys_internship_certificate_of_completion.jpg)
+![Infosys Internship Certificate](https://github.com/abhiseksarkar2001/healthcare-anomaly-detection/blob/main/infosys_internship_certificate_of_completion.jpg)
 
 
 **Getting Started**
