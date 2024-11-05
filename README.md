@@ -1,3 +1,5 @@
+![Infosys Internship Certificate](https://github.com/abhiseksarkar2001/healthcare-anomaly-detection/blob/main/infosys_internship_certificate_of_completion.jpg)
+
 # healthcare-anomaly-detection
 
 I'd be glad to create a README.md for your `healthcare-anomaly-detection` GitHub repository:
@@ -38,8 +40,6 @@ Each folder (`week_1`, `week_2`, `week_3`, `week_4`) contains the code and docum
 **Internship Certificate**
 
 The `infosys_internship_certificate_of_completion.pdf` file provides a copy of your Infosys internship completion certificate for reference.
-![Infosys Internship Certificate](https://github.com/abhiseksarkar2001/healthcare-anomaly-detection/blob/main/infosys_internship_certificate_of_completion.jpg)
-
 
 **Getting Started**
 
@@ -54,19 +54,3 @@ To understand the project in detail, follow these steps:
 (Optional: Include a disclaimer if applicable)
 
 This project is for educational purposes only. The code might not be production-ready and may require modifications for real-world healthcare applications. It's crucial to adhere to ethical guidelines and regulations when handling sensitive healthcare data.
-
-**Feel free to:**
-
-- Contribute to the project by adding improvements or new functionalities (if this is a collaborative project).
-- Open an issue if you encounter any problems or have questions.
-
-**License**
-
-(Include a license if you choose to open-source the code)
-
-Specify a license under which you'd like to share the code (e.g., MIT License, Apache License 2.0).
-
-**Additional Notes**
-
-- Replace `...` with specific details about the contents of each weekly folder.
-- Customize the disclaimer and getting started instructions as needed.
